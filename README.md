@@ -15,3 +15,4 @@
 -   Значки: `~/.local/share/icons`
 -   Курсоры мыши: `~/.icons`
 -   Заставка: `~/.local/share/plasma/look-and-feel`
+-   Терминал: `~/.local/share/konsole`

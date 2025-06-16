@@ -8,7 +8,18 @@
 
 ***
 
-<img src="screenshots/jolly-theme.jpg" alt="Jolly Theme">
+<table align="center">
+  <tr>
+    <td colspan="4"><img src="./screenshots/jolly-theme.jpg"></td>
+  </tr>
+  <tr>
+    <td colspan="1"><img src="./screenshots/moe-theme.jpg"></td>
+    <td colspan="1"><img src="./screenshots/nothing-theme-2.jpg"></td>
+  </tr>
+  <tr>
+    <td colspan="4"><img src="./screenshots/nothing-theme.jpg"></td>
+  </tr>
+</table>
 
 ## 🛠 Folders to Installation
 

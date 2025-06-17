@@ -1,0 +1,66 @@
+[
+    {
+        "fallback": false,
+        "iconPath": ":amazon",
+        "id": "23de4e1a",
+        "name": "Amazon",
+        "trigger": "ama",
+        "url": "http://www.amazon.com/s/?field-keywords=%s"
+    },
+    {
+        "fallback": false,
+        "iconPath": ":duckduckgo",
+        "id": "af0d75a9",
+        "name": "DuckDuckGo",
+        "trigger": "dd",
+        "url": "https://duckduckgo.com/?q=%s"
+    },
+    {
+        "fallback": false,
+        "iconPath": ":github",
+        "id": "61e60675",
+        "name": "GitHub",
+        "trigger": "gh",
+        "url": "https://github.com/search?utf8=✓&q=%s"
+    },
+    {
+        "fallback": true,
+        "iconPath": ":google",
+        "id": "dac42a70",
+        "name": "Google",
+        "trigger": "gg",
+        "url": "https://www.google.com/search?q=%s"
+    },
+    {
+        "fallback": false,
+        "iconPath": ":google_translate",
+        "id": "d1788eb0",
+        "name": "Google Translate",
+        "trigger": "gt",
+        "url": "https://translate.google.com/?text=%s"
+    },
+    {
+        "fallback": true,
+        "iconPath": "file:/home/assailance/.local/share/albert/websearch/b644bad3.png",
+        "id": "b644bad3",
+        "name": "Yandex",
+        "trigger": "ya",
+        "url": "https://ya.ru/search?text=%s"
+    },
+    {
+        "fallback": true,
+        "iconPath": "file:/home/assailance/.local/share/albert/websearch/8f1bf5f5.png",
+        "id": "8f1bf5f5",
+        "name": "Yandex Images",
+        "trigger": "yi",
+        "url": "https://ya.ru/images/search?text=%s"
+    },
+    {
+        "fallback": false,
+        "iconPath": ":youtube",
+        "id": "d52dd98d",
+        "name": "YouTube",
+        "trigger": "yt",
+        "url": "https://www.youtube.com/results?search_query=%s"
+    }
+]

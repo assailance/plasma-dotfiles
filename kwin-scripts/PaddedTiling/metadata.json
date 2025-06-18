@@ -1,0 +1,17 @@
+{
+  "KPackageStructure": "KWin/Script",
+  "KPlugin": {
+    "Name": "Padded Tiling",
+    "Description": "Resizes windows to full screen with padding",
+    "Icon": "preferences-system-windows",
+    "Id": "PaddedTiling",
+    "License": "GPLv3",
+    "Authors": [
+      {
+        "Name": "assailance"
+      }
+    ]
+  },
+  "X-Plasma-API": "javascript",
+  "X-Plasma-MainScript": "code/main.js"
+}

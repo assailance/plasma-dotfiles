@@ -1,11 +1,27 @@
 [
     {
         "fallback": false,
-        "iconPath": ":amazon",
-        "id": "23de4e1a",
-        "name": "Amazon",
-        "trigger": "ama",
-        "url": "http://www.amazon.com/s/?field-keywords=%s"
+        "iconPath": "file:/home/assailance/.local/share/albert/websearch/eed06d7c.png",
+        "id": "eed06d7c",
+        "name": "Anilib",
+        "trigger": "al",
+        "url": "https://anilib.me/ru/catalog?q=%s"
+    },
+    {
+        "fallback": false,
+        "iconPath": "file:/home/assailance/.local/share/albert/websearch/0d087b20.png",
+        "id": "0d087b20",
+        "name": "AnimeGo",
+        "trigger": "ag",
+        "url": "https://animego.me/search/anime?q=%s"
+    },
+    {
+        "fallback": false,
+        "iconPath": "file:/home/assailance/.local/share/albert/websearch/0d1faa47.png",
+        "id": "0d1faa47",
+        "name": "Django",
+        "trigger": "dj",
+        "url": "https://docs.djangoproject.com/en/5.2/search/?q=%s"
     },
     {
         "fallback": false,
@@ -48,7 +64,7 @@
         "url": "https://ya.ru/search?text=%s"
     },
     {
-        "fallback": true,
+        "fallback": false,
         "iconPath": "file:/home/assailance/.local/share/albert/websearch/8f1bf5f5.png",
         "id": "8f1bf5f5",
         "name": "Yandex Images",

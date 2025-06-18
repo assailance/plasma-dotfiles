@@ -23,6 +23,7 @@ functions_in_global_query=false
 units_in_global_query=false
 
 [chromium]
+bookmarks_path=@Invalid()
 enabled=false
 indexHostname=false
 
@@ -51,7 +52,7 @@ paths=@Invalid()
 enabled=true
 
 [mediaremote]
-enabled=false
+enabled=true
 
 [path]
 enabled=true
@@ -69,7 +70,8 @@ enabled=false
 enabled=false
 
 [python.coingecko]
-enabled=false
+enabled=true
+global_handler_enabled=false
 
 [python.color]
 enabled=true
@@ -81,6 +83,9 @@ enabled=false
 [python.dice_roll]
 enabled=true
 
+[python.duckduckgo]
+enabled=false
+
 [python.emoji]
 enabled=true
 global_handler_enabled=false
@@ -89,7 +94,8 @@ global_handler_enabled=false
 enabled=false
 
 [python.jetbrains_projects]
-enabled=false
+enabled=true
+match_path=true
 
 [python.locate]
 enabled=false
@@ -113,7 +119,9 @@ enabled=false
 enabled=false
 
 [python.translators]
-enabled=false
+enabled=true
+lang=ru
+translator=google
 
 [python.unit_converter]
 enabled=true

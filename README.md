@@ -21,6 +21,29 @@
   </tr>
 </table>
 
+# Appearance
+
+## 🎨 Global Themes
+
+- Black: ⚫ [Nothing](https://gitlab.com/jomada/nothing) by [jomada](https://gitlab.com/jomada)
+- Purple: 🟣 [Jolly-Plasma-Themes](https://github.com/L4ki/Jolly-Plasma-Themes) by [L4ki](https://github.com/L4ki)
+- White: ⚪ [Moe-Theme](https://gitlab.com/jomada/moe-theme) by [jomada](https://gitlab.com/jomada)
+
+## 📁 Icons
+
+- [Colloid](https://github.com/vinceliuice/Colloid-icon-theme) by [vinceliuice](https://github.com/vinceliuice)
+- [Reversal](https://github.com/yeyushengfan258/Reversal-icon-theme) by [yeyushengfan258](https://github.com/yeyushengfan258)
+- [Tela](https://github.com/vinceliuice/Tela-icon-theme) by [vinceliuice](https://github.com/vinceliuice)
+- [Flat-Remix](https://github.com/daniruiz/Flat-Remix) by [daniruiz](https://github.com/daniruiz)
+- [WhiteSur](https://github.com/vinceliuice/WhiteSur-icon-theme) by [vinceliuice](https://github.com/vinceliuice)
+
+## 📱 Plasma Widgets
+
+- [Plasma-Applet-Netspeed](https://github.com/dfaust/plasma-applet-netspeed-widget) by [dfaust](https://github.com/dfaust)
+- [Plasmusic-Toolbar](https://github.com/ccatterina/plasmusic-toolbar) by [ccatterina](https://github.com/ccatterina)
+
+***
+
 ## 🛠 Folders to Installation
 
 -   Цвета: `~/.local/share/color-schemes`

@@ -28,6 +28,7 @@
 - Black: ⚫ [Nothing](https://gitlab.com/jomada/nothing) by [jomada](https://gitlab.com/jomada)
 - Purple: 🟣 [Jolly-Plasma-Themes](https://github.com/L4ki/Jolly-Plasma-Themes) by [L4ki](https://github.com/L4ki)
 - White: ⚪ [Moe-Theme](https://gitlab.com/jomada/moe-theme) by [jomada](https://gitlab.com/jomada)
+- Green: 🟢 [Gently](https://github.com/L4ki/Gently) by [L4ki](https://github.com/L4ki)
 
 ## 📁 Icons
 
@@ -42,15 +43,24 @@
 - [Plasma-Applet-Netspeed](https://github.com/dfaust/plasma-applet-netspeed-widget) by [dfaust](https://github.com/dfaust)
 - [Plasmusic-Toolbar](https://github.com/ccatterina/plasmusic-toolbar) by [ccatterina](https://github.com/ccatterina)
 
+## Additional Windows Decorations
+
+- [ketsa](https://store.kde.org/p/1969727/) by [zayronXIO](https://store.kde.org/u/zayronXIO)
+- [KdeWaita Dark](https://store.kde.org/p/2271791/) by [zayronXIO](https://store.kde.org/u/zayronXIO)
+
 ***
+
+> [!WARNING]
+> FILES UPLOADED TO THE REPOSITORY MAY BE OUT OF DATE.
+> PLEASE DOWNLOAD THE LATEST VERSIONS FROM THE OFFICIAL SOURCES MENTIONED HERE.
 
 ## 🛠 Folders to Installation
 
--   Цвета: `~/.local/share/color-schemes`
--   Оформление приложений: `~/.themes`
--   Оформление рабочего стола: `~/.local/share/plasma/desktoptheme`
--   Оформление окон: `~/.local/share/aurorae/themes`
--   Значки: `~/.local/share/icons`
--   Курсоры мыши: `~/.icons`
--   Заставка: `~/.local/share/plasma/look-and-feel`
--   Терминал: `~/.local/share/konsole`
+-   Colours: `~/.local/share/color-schemes`
+-   Application Style: `~/.themes`
+-   Plasma Style: `~/.local/share/plasma/desktoptheme`
+-   Window Decorations: `~/.local/share/aurorae/themes`
+-   Icons: `~/.local/share/icons`
+-   Cursors: `~/.icons`
+-   Splash Screen: `~/.local/share/plasma/look-and-feel`
+-   Terminal: `~/.local/share/konsole`

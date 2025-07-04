@@ -38,6 +38,11 @@
 - [Flat-Remix](https://github.com/daniruiz/Flat-Remix) by [daniruiz](https://github.com/daniruiz)
 - [WhiteSur](https://github.com/vinceliuice/WhiteSur-icon-theme) by [vinceliuice](https://github.com/vinceliuice)
 
+## 🖱️ Cursors
+
+- [Volantes Cursors](https://github.com/varlesh/volantes-cursors) by [varlesh](https://github.com/varlesh)
+- [Bibata Cursor](https://github.com/ful1e5/Bibata_Cursor) by [ful1e5](https://github.com/ful1e5)
+
 ## 📱 Plasma Widgets
 
 - [Plasma-Applet-Netspeed](https://github.com/dfaust/plasma-applet-netspeed-widget) by [dfaust](https://github.com/dfaust)
